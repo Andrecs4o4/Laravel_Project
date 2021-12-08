@@ -1,4 +1,4 @@
-# Inven BS
+# Website Inventori
 
 Aplikasi inventaris barang sekolah menggunakan Framework Laravel 8.
 
