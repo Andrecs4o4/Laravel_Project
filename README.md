@@ -72,7 +72,7 @@ Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
 
 ### Pembuat
 
--   **Muhammad Rizki Maulidan** - _Programmer_ - [mrizkimaulidan](https://github.com/mrizkimaulidan)
+-   **Muhammad Rizki Maulidan** - _Programmer_ - [Andre Christian Surbakti](https://github.com/Andrecs4o4/Laravel_Project)
 
 ### Lisensi
 
